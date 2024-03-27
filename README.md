@@ -1,1 +1,5 @@
-# jira-integration-test
+# JIRA / GITHub Integration testen
+
+## Grundlegende Verknüpfung 
+
+## Deployment integrieren
